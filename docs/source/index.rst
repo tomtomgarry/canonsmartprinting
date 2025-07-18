@@ -17,7 +17,7 @@ Here are the most frequent reasons behind this problem:
 - **Improperly Installed or Non-Genuine Cartridges:** Incorrectly seated cartridges or third-party ink can cause printing issues.
 - **Outdated or Corrupt Printer Drivers:** Old software may cause the printer to miscommunicate with your computer.
 - **Print Settings Issues:** Incorrect settings in the print dialog box, such as “Grayscale” or “Black Ink Only,” can affect output.
-- **Software or Firmware Errors:** Temporary glitches can halt black or color printing unexpectedly.
+- **Software or Firmware Errors:** Temporary glitches can halt black or color printing unexpectedly
 
 `Click Here: Get the Live Canon Printer Support <https://jivo.chat/KlZSRejpBm>`_
 
